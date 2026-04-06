@@ -8,7 +8,7 @@ SQL analysis of Facebook Ads and Google Ads campaign performance, including key 
 
 | File                                  | Description                                                              |
 |---------------------------------------|--------------------------------------------------------------------------|
-| `facebook_marketing_ads.sql`          | Basic Facebook Ads analysis: metrics by day and campaign                 |
+| [`facebook_marketing_ads.sql`]  ( https://github.com/YanaTL/sql_projects/blob/main/marketing_analysis/facebook_marketing_ads.sql)       | Basic Facebook Ads analysis: metrics by day and campaign                 |
 | `facebook_google_marketing_ads.sql`   | Combined Facebook + Google Ads report                                    |
 | `facebook_google_marketing_ads_2.sql` | Extended analysis: UTM parameters, monthly aggregation, trend tracking   |
 
