@@ -1,4 +1,5 @@
-### This repository features a collection of projects demonstrating my expertise in crafting complex SQL queries, database structuring, and extracting actionable business value from raw datasets.
+# 🔍SQL Data Analytics Portfolio
+This repository features a collection of projects demonstrating my expertise in crafting complex SQL queries, database structuring, and extracting actionable business value from raw datasets.
 
 ### 🎯Key Analytical Areas
 - Marketing Analytics: Evaluating ad campaign performance (ROMI, CTR, CPC) and customer acquisition analysis.
